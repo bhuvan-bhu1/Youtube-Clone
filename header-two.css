@@ -1,0 +1,27 @@
+.header-two{
+    position: fixed;
+    height: 50px;
+    top: 60px;
+    left: 78px;
+    display: flex;
+
+}
+.recommend-button{
+    padding: 0px 12px;
+    font-size: 14px;
+    font-style: Roboto ,Arial;
+    font-weight: 500;
+    margin-left: 15px;
+    background-color: rgb(241, 241, 241);
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.recommend-button:hover{
+    background-color: rgb(232, 232, 232);
+}
+.recommend-button:active{
+    background-color: black;
+    color: white;
+}
